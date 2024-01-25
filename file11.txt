@@ -1,0 +1,7 @@
+Employee ID:11
+Employee Name     :abhi
+Father's Name     :xyz
+Employee Contact  :999666555
+Email Information :abhi@gmail.com
+Employee position :intern
+Employee Salary   :25,000

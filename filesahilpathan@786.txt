@@ -1,0 +1,7 @@
+Employee ID:sahilpathan@786
+Employee Name     :sahil pathan
+Father's Name     :samir pathan
+Employee Contact  :+917887910792
+Email Information :pathansahil67799@gmail,com
+Employee position :HR
+Employee Salary   :1000$
